@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cards/static/js/main.477e1291.js",
+    "index.html": "/cards/index.html",
+    "static/media/strelochka.svg": "/cards/static/media/strelochka.00c262dbc05d55d30860b204cbe71003.svg",
+    "main.477e1291.js.map": "/cards/static/js/main.477e1291.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.477e1291.js"
+  ]
+}
